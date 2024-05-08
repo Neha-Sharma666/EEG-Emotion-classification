@@ -1,9 +1,9 @@
 In this project, I tried to classify EEG data to positive and negative emotions using MLP and RBF with 2 different feature extraction methods:
 1. Manual Feature Extraction
-  1) Statistic features:
-     Variance, Max abs, Kurtosis, Skewness
-  3) Features in frequency domain:
-     Theta, Alpha, Lbeta, Mbeta, Hbeta, Gamma, Median freq, Mean freq, Entropy, OBW, Max power, Band power
+-Statistic features:
+   Variance, Max abs, Kurtosis, Skewness
+-Features in frequency domain:
+   Theta, Alpha, Lbeta, Mbeta, Hbeta, Gamma, Median freq, Mean freq, Entropy, OBW, Max power, Band power
      
 2. Evolutionary algorithms/swarm intelligence algorithms
 
